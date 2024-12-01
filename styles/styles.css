@@ -31,10 +31,6 @@ main {
     font-size: 15;
 }
 
-form {
-    margin-bottom: 20px;
-}
-
 .floating-box {
     background-color: white; /* White background for the box */
     border: 2px solid #C0C0C0; /* Border color */
