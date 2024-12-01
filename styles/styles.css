@@ -11,6 +11,7 @@ header {
     color: black;
     padding: 20px;
     text-align: center;
+    width: 100%;
 }
 
 h1 {
@@ -27,7 +28,7 @@ h2 {
 main {
     text-align: center;
     margin: 0 auto;
-    padding: 0px;
+    padding: 20px;
     font-size: 15;
     flex-grow: 1;	
 }
