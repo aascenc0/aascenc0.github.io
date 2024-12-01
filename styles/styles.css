@@ -27,7 +27,7 @@ h2 {
 main {
     text-align: center;
     margin: 0 auto;
-    padding: 15px;
+    padding: 0px;
     font-size: 15;
     flex-grow: 1;	
 }
