@@ -1,5 +1,5 @@
 body {
-    background-color: #408EC6;
+    background-color: #C2DDFA;
     color: #1E2761;
     font-family: Arial, sans-serif;
     position: relative;
@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #408EC6;
+    background-color: #C2DDFA;
     color: #1E2761;
     max-width: 1000px;
     margin-left: auto;
@@ -32,7 +32,7 @@ h2 {
 }
 
 main {
-    background-color: #408EC6;
+    background-color: #C2DDFA;
     max-width: 1000px;
     min-height: 600px;
     box-sizing: border-box;
@@ -90,7 +90,7 @@ nav {
     padding: 5px;
     text-align: center;
     overflow: hidden;
-    background-color: #408EC6;
+    background-color: #C2DDFA;
 }
 
 nav ul {
@@ -117,7 +117,7 @@ nav li a:hover {
 }
 
 footer {
-    background-color: #408EC6;
+    background-color: #C2DDFA;
     color: #1E2761;
     text-align: center;
     max-width: 1000px;
