@@ -43,6 +43,9 @@ main {
     font-size: 16px; 
     display: flex;
     flex-direction: column;
+    opacity: 0.5;
+    background-image: radial-gradient( ellipse farthest-corner at 10px 10px , #dbd3a6, #dbd3a6 50%, #e5e5f7 50%);
+    background-size: 10px 10px;
 }
 
 main a {
