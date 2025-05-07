@@ -40,7 +40,7 @@ main {
     border: solid #7A2048 5px;
     padding: 15px;
     margin: auto;
-    font-size: 16px; 
+    font-size: 20px; 
     display: flex;
     flex-direction: column;
     background-image: radial-gradient( ellipse farthest-corner at 10px 10px , #dbd3a6, #dbd3a6 50%, #e5e5f7 50%);
