@@ -43,7 +43,7 @@ main {
     font-size: 20px; 
     display: flex;
     flex-direction: column;
-    background-image:  radial-gradient(#fff5ea 1.4000000000000001px, transparent 1.4000000000000001px), radial-gradient(#fff5ea 1.4000000000000001px, #706c4e 1.4000000000000001px);
+    background-image:  radial-gradient(#fff5ea 1.4000000000000001px, transparent 1.4000000000000001px), radial-gradient(#fff5ea 1.4000000000000001px, #ebedf1 1.4000000000000001px);
     background-size: 56px 56px;
     background-position: 0 0,28px 28px;
 }
