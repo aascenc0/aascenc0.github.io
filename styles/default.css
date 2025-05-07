@@ -43,12 +43,12 @@ main {
     font-size: 20px; 
     display: flex;
     flex-direction: column;
-    background-image: radial-gradient( ellipse farthest-corner at 10px 10px , #dbd3a6, #dbd3a6 50%, #e5e5f7 50%);
-    background-size: 10px 10px;
+    background-image: radial-gradient(#fff5ea 1px, #e5e5f7 1px);
+    background-size: 20px 20px;
 }
 
 main a {
-    color: #B85003;
+    color: #CBDCEB;
 }
 
 main img {
